@@ -303,6 +303,15 @@
         <mxCell id="BHOYEXOAl1tmuNZDoh1g-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=45;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;http/https请求&lt;/font&gt;" vertex="1">
           <mxGeometry height="102.5" width="318" x="-178" y="3299" as="geometry" />
         </mxCell>
+        <mxCell id="BHOYEXOAl1tmuNZDoh1g-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=4;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;内存 64G&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="167" x="1075" y="3165" as="geometry" />
+        </mxCell>
+        <mxCell id="BHOYEXOAl1tmuNZDoh1g-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=4;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;内存 16G&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="167" x="1088" y="3497.49" as="geometry" />
+        </mxCell>
+        <mxCell id="BHOYEXOAl1tmuNZDoh1g-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=4;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;内存 8G&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="167" x="1097" y="3824" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
